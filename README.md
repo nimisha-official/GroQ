@@ -41,7 +41,7 @@ headers = {
 }
 
 payload = {
-  "model": "mixtral-8x7b-32768",  # Model naam change kari shake
+  "model": "mixtral-8x7b-32768", 
   "messages": [
     {"role": "user", "content": "Hello Kanuda, how can GroqCloud help you today?"}
   ],
