@@ -16,8 +16,7 @@ Groq LPU (Language Processing Unit) is a hardware chip specially designed for AI
 - Scalable cloud architecture  
 - Low latency execution  
 - Easy API integration  
-- Supports popular LLMs like LLaMA, GPT, and more  
-- Free tier available with **1000 tokens/month**  
+- Supports popular LLMs like LLaMA, GPT, and more 
 
 ### Implementation
 1. **Signup & API Key Generation** 🔑  
