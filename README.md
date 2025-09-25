@@ -42,7 +42,7 @@ headers = {
 payload = {
   "model": "mixtral-8x7b-32768", 
   "messages": [
-    {"role": "user", "content": "Hello Kanuda, how can GroqCloud help you today?"}
+    {"role": "user", "content": "Hello, how can GroqCloud help you today?"}
   ],
   "temperature": 0.7,
   "max_tokens": 100
